@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+a+ComexSmart!+:%29)](https://git.io/typing.svg)
 
 # Objetivo do Projeto 
+Objetivo
+Analisar a produtividade dos veículos, otimizar a distribuição e reduzir os custos de rotas da empresa embarcadora de carga, por meio da criação e modelagem de um banco de dados em SQL, da aplicação de métodos de transporte para otimização da distribuição e da análise dos dados coletados.
+
 
 O projeto tem como objetivo
 
