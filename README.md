@@ -54,31 +54,30 @@ Sprint | Previsão | Status| Histórico|
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [x] Fazer o relacionamento dos dados no Power BI;
-- [x] Pesquisa de apoio para contextualizar o projeto;
-- [x] Atualizar o Git Hub de acordo com o feedback do cliente;
-- [x] Fazer relatório técnico da sprint 1;
-- [x] Projetar dash teste (dados gerais);
-- [x] Gerenciar o 5W2H;
-- [x] Workshop de Power BI para nivelamento da equipe com a ferramenta.
+- [x] Configuração do Jira Software:
+- [x]  Como gerente de projeto, preciso configurar o Jira Software para o nosso projeto, incluindo a criação de um novo projeto, definição de tipos de tarefa, configuração de fluxos de trabalho e atribuição de permissões, para facilitar o acompanhamento e a organização das nossas atividades de desenvolvimento.
+- [x] Configuração do GitHub:
+    Como gerente de projeto, necessito configurar o GitHub para o nosso projeto, incluindo a criação de um repositório, definição de áreas de trabalho e permissões, para facilitar o controle de versão e colaboração entre os membros da equipe de desenvolvimento.
+- [x] Tratamento de Dados em Excel:
+    Como analista de dados, preciso tratar os dados fornecidos em formato CSV, editando-os para facilitar o seu entendimento em Excel e adicioná-los a uma tabela com filtros, para permitir uma análise mais eficaz e a identificação de padrões e tendências relevantes.
+
       
 ## Sprint 2 . Implementação
-- [x] Pesquisar conceito da geografia dos Fluxos;
-- [x] Dash teste tela de SP;
-- [x] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
-- [x] Fazer relatório técnico da sprint 2;
-- [x] Gerenciar o 5W2H;
-- [x] Dashboard de probabilidades.
+- [x] Criação e modelagem do banco de dados em SQL:Como analista de dados, quero definir os requisitos 
+- [x]  Como analista de dados, quero definir os requisitos de dados para o banco de dados, para garantir que todas as informações relevantes sejam capturadas de forma precisa e completa.
+- [x] Como desenvolvedor, devo implementar o banco de dados em SQL, seguindo o esquema projetado, para garantir que os dados sejam armazenados corretamente e acessíveis para análises futuras.
 
-## Sprint 3. Operacionalização
-- [x] Terminar as telas requisitadas pelo cliente;
-- [x] Apresentar os dados do desempenho de SJC, Jundiaí e Paulínia em relação á carga específica;
-- [x] Fazer relatório técnico da sprint 3;
-- [x] Gerenciar o 5W2H;
-- [x] Projetar mapa dentro do power BI
-- [x] Fazer a equilvalência percentual das cidades (SJC, Jundiaí e Paulínia) em relação ao estado de São Paulo.
+## Sprint 3 Competências desenvolvidas
 
-# Competências desenvolvidas
+- [x] Desenvolvimento do visualizador de indicadores utilizando Power BI
+- [x] Como cliente, desejo identificar os principais indicadores de desempenho a serem visualizados no Power BI, para ter uma visão abrangente do desempenho da empresa.
+- [x] Como desenvolvedor, devo desenvolver os dashboards e relatórios necessários no Power BI para visualizar os indicadores identificados, garantindo uma representação clara e intuitiva dos dados.
+- [x] Como desenvolvedor, devo integrar os dados do banco de dados SQL ao Power BI, para garantir que as informações sejam atualizadas e precisas nos dashboards e relatórios.
+- [x] Como usuário, preciso testar e validar a precisão dos dados e a funcionalidade do visualizador no Power BI, para garantir sua eficácia e utilidade nas análises.
+
+## Sprint 4 Desenvolvimento de modelagem e solução de otimização em Python
+- [x] Como analista de dados, devo desenvolver modelos de otimização em Python para resolver problemas específicos de distribuição e custo de rotas, garantindo uma abordagem analítica e eficaz para a solução dos problemas.
+- [x] Como desenvolvedor, devo testar e validar os modelos de otimização desenvolvidos em Python, garantindo sua precisão e eficácia na resolução dos problemas identificados.
 
 ## Hard Skill (saber tecnológico)
 <details>
