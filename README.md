@@ -33,7 +33,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 13/03/2024| Concluido|  | 
 |01| 17/04/2024 | Em Andamento | [Ver Relatório]() | 
-|02| 08/05/2024 | a fazer | | 
+|02| 05/06/2024 | a fazer | | 
 |03| 29/05/2024 | a fazer | | 
 |04| 19/06/2024	| a fazer | | 
 |Feira de Soluções| 27/06/2024	 | a fazer | 
