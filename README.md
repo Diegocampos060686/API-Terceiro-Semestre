@@ -67,15 +67,15 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 3 Competências desenvolvidas
 
-- [x] Desenvolvimento do visualizador de indicadores utilizando Power BI
-- [x] Identificar os principais indicadores de desempenho a serem visualizados no Power BI, para ter uma visão abrangente do desempenho da empresa.
-- [x] Desenvolver os dashboards e relatórios necessários no Power BI para visualizar os indicadores identificados, garantindo uma representação clara e intuitiva dos dados.
-- [x] Integrar os dados do banco de dados SQL ao Power BI, para garantir que as informações sejam atualizadas e precisas nos dashboards e relatórios.
-- [x] Testar e validar a precisão dos dados e a funcionalidade do visualizador no Power BI, para garantir sua eficácia e utilidade nas análises.
+- [ ] Desenvolvimento do visualizador de indicadores utilizando Power BI
+- [ ] Identificar os principais indicadores de desempenho a serem visualizados no Power BI, para ter uma visão abrangente do desempenho da empresa.
+- [ ] Desenvolver os dashboards e relatórios necessários no Power BI para visualizar os indicadores identificados, garantindo uma representação clara e intuitiva dos dados.
+- [ ] Integrar os dados do banco de dados SQL ao Power BI, para garantir que as informações sejam atualizadas e precisas nos dashboards e relatórios.
+- [ ] Testar e validar a precisão dos dados e a funcionalidade do visualizador no Power BI, para garantir sua eficácia e utilidade nas análises.
 
 ## Sprint 4 Desenvolvimento de modelagem e solução de otimização em Python
-- [x] Desenvolver modelos de otimização em Python para resolver problemas específicos de distribuição e custo de rotas, garantindo uma abordagem analítica e eficaz para a solução dos problemas.
-- [x] Testar e validar os modelos de otimização desenvolvidos em Python, garantindo sua precisão e eficácia na resolução dos problemas identificados.
+- [ ] Desenvolver modelos de otimização em Python para resolver problemas específicos de distribuição e custo de rotas, garantindo uma abordagem analítica e eficaz para a solução dos problemas.
+- [ ] Testar e validar os modelos de otimização desenvolvidos em Python, garantindo sua precisão e eficácia na resolução dos problemas identificados.
 
 ## Hard Skill (saber tecnológico)
 <details>
