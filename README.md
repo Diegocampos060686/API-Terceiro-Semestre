@@ -7,8 +7,6 @@ Objetivo
 Analisar a produtividade dos veículos, otimizar a distribuição e reduzir os custos de rotas da empresa embarcadora de carga, por meio da criação e modelagem de um banco de dados em SQL, da aplicação de métodos de transporte para otimização da distribuição e da análise dos dados coletados.
 
 
-O projeto tem como objetivo
-
 # Índice
 
 * [Equipe](#equipe)
@@ -44,6 +42,9 @@ Sprint | Previsão | Status| Histórico|
 <div align="center">
 
 </div>
+
+# Tecnologias utilizadas
+
 
 # Backlog do Produto
 
