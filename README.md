@@ -53,26 +53,25 @@ Sprint | Previsão | Status| Histórico|
 
 # Backlog do Produto
 
-## Sprint 0. Concepção
+## Sprint 1. Desenvolvimento do projeto
 - [x] Backlog do produto;
 - [x] GitHub estruturado com link disponibilizado;
 - [x] Jira Software estruturado;
 - [x] Atribuição das atividades para a Sprint 1.
 
-## Sprint 1. Desenvolvimento do Projeto
+## Sprint 2. Implementação
 - [x] Configuração do Jira Software:
 - [x] Configurar o Jira Software para o nosso projeto, incluindo a criação de um novo projeto, definição de tipos de tarefa, configuração de fluxos de trabalho e atribuição de permissões, para facilitar o acompanhamento e a organização das nossas atividades de desenvolvimento.
 - [x] Configuração do GitHub:para o nosso projeto, incluindo a criação de um repositório, definição de áreas de trabalho e permissões, para facilitar o controle de versão e colaboração entre os membros da equipe de desenvolvimento.
 - [x] Tratamento de Dados em Excel:tratar os dados fornecidos em formato CSV, editando-os para facilitar o seu entendimento em Excel e adicioná-los a uma tabela com filtros, para permitir uma análise mais eficaz e a identificação de padrões e tendências relevantes.
 
       
-## Sprint 2. Implementação
+## Sprint 3. Competências desenvolvidas
 - [x] Criação e modelagem do banco de dados em SQL:
 - [x] Definir os requisitos de dados para o banco de dados, para garantir que todas as informações relevantes sejam capturadas de forma precisa e completa.
 - [x] Implementar o banco de dados em SQL, seguindo o esquema projetado, para garantir que os dados sejam armazenados corretamente e acessíveis para análises futuras.
 
-## Sprint 3 Competências desenvolvidas
-
+## Sprint 4. Desenvolvimento de modelagem e solução de otimização em Python
 - [ ] Desenvolvimento do visualizador de indicadores utilizando Power BI
 - [ ] Identificar os principais indicadores de desempenho a serem visualizados no Power BI, para ter uma visão abrangente do desempenho da empresa.
 - [ ] Desenvolver os dashboards e relatórios necessários no Power BI para visualizar os indicadores identificados, garantindo uma representação clara e intuitiva dos dados.
