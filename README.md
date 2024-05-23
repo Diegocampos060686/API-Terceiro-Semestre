@@ -44,11 +44,11 @@ Sprint | Previsão | Status| Histórico|
 </div>
 
 # Tecnologias utilizadas
-Jira software
-Github
-Excel
-SQL
-Power BI
+-Jira software
+-Github
+-Excel
+-SQL
+-Power BI
 
 # Backlog do Produto
 
