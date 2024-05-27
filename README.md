@@ -9,6 +9,7 @@ O principal propósito deste projeto é conduzir uma análise abrangente da efic
 
 * [Equipe](#equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Produto](#Produto)
 * [Backlog do Produto](#Backlog-do-produto)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 
@@ -49,6 +50,11 @@ Sprint | Previsão | Status| Histórico|
 * SQL
 * Power BI
 * Phyton
+
+#Produto
+
+[![produto](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/Documentos/produto.gif)
+
 
 # Backlog do Produto
 
