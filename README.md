@@ -56,22 +56,27 @@ Sprint | Previsão | Status| Histórico|
 - [x] Backlog do produto;
 - [x] GitHub estruturado com link disponibilizado;
 - [x] Jira Software estruturado;
-- [ ] Tratamento de Dados em Excel;
+- [x] Tratamento de Dados em Excel;
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 2. Implementação
 - [x] Criação e modelagem do banco de dados em SQL;
-- [x]  Definir os requisitos de dados para o banco de dados, para garantir que todas as informações relevantes sejam capturadas de forma precisa e completa.
-- [x] Implementar o banco de dados em SQL, seguindo o esquema projetado, para garantir que os dados sejam armazenados corretamente e acessíveis para análises futuras.
+- [x] Criação de um modelo analítico para possíveis reduções nos custos com frete em Excel;
+- [x] Aplicaçao de fórmulas em SQL para definir média de gastos por KM filtrando por fábrica;
+- [x] Elaboração de relatório técnico da 2° sprint;
       
 ## Sprint 3. Competências desenvolvidas
 - [x] Integrar os dados do banco de dados SQL ao Power BI;
 - [x] Desenvolver os dashboards e relatórios necessários no Power BI;
 - [x] Testar e validar a precisão dos dados e a funcionalidade do visualizador no Power BI;
+- [x] Desenvolver um modelo de minimizaçao de custos no Python
+- [x] Desenvolver relatório técnico da 3° sprint
+- [x] Atualização do GitHub
 
 ## Sprint 4. Desenvolvimento de modelagem e solução de otimização em Python
-- [ ]  Desenvolver modelos de otimização em Python para resolver problemas específicos de distribuição e custo de rotas, garantindo uma abordagem analítica e eficaz para a solução dos problemas;
-- [ ] Testar e validar os modelos de otimização desenvolvidos em Python, garantindo sua precisão e eficácia na resolução dos problemas identificados.
+- [x] Efetuar ajustes e correções no modelo de otimização em Python;
+- [x] Efetuar ajustes e correções nos dashboards criados em Power BI;
+- [x] Elaborar relatório técnico da 4° sprint ;
 
 
 ## Hard Skill (saber tecnológico)
