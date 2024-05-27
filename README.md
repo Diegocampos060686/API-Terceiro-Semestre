@@ -48,6 +48,7 @@ Sprint | Previsão | Status| Histórico|
 * Excel
 * SQL
 * Power BI
+* Phyton
 
 # Backlog do Produto
 
