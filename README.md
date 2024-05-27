@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+a+ComexSmart!+:%29)](https://git.io/typing.svg)
 
 # Objetivo do Projeto 
-Objetivo
 O principal propósito deste projeto é conduzir uma análise abrangente da eficiência dos veículos, estratégias de otimização para a distribuição de cargas e minimização dos custos associados às rotas logísticas de uma empresa embarcadora.
 
 # Índice
