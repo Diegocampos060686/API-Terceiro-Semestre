@@ -57,12 +57,12 @@ Sprint | Previsão | Status| Histórico|
 
 Para acessar o produto basta acessar [aqui](https://app.powerbi.com/groups/me/reports/cf378b99-e29a-4058-9b9b-538947917ede/ReportSection02ff4a450ead6a0950d4?experience=power-bi).
 
-[![produto](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/Documentos/produto.gif)
+![produto](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/Documentos/produto.gif)
 
 
 ### Código em Python
 
-[![produto](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/Documentos/gif-python.gif) 
+![produto](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/Documentos/gif-python.gif) 
 
 
 # Backlog do Produto
