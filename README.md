@@ -4,8 +4,7 @@
 
 # Objetivo do Projeto 
 Objetivo
-Analisar a produtividade dos veículos, otimizar a distribuição e reduzir os custos de rotas da empresa embarcadora de carga, por meio da criação e modelagem de um banco de dados em SQL, da aplicação de métodos de transporte para otimização da distribuição e da análise dos dados coletados.
-
+O principal propósito deste projeto é conduzir uma análise abrangente da eficiência dos veículos, estratégias de otimização para a distribuição de cargas e minimização dos custos associados às rotas logísticas de uma empresa embarcadora.
 
 # Índice
 
