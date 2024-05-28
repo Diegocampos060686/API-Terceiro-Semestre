@@ -91,9 +91,7 @@ Para acessar o produto basta acessar [aqui](https://app.powerbi.com/groups/me/re
 ## Sprint 4. Desenvolvimento de modelagem e solução de otimização em Python
 - [ ] Efetuar ajustes e correções no modelo de otimização em Python;
 - [ ] Efetuar ajustes e correções nos dashboards criados em Power BI;
-- [ ]Elaborar relatório técnico da 4° sprint.
-
-
+- [ ] Desenvolver relatório técnico da 4° sprint.
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
