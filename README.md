@@ -31,7 +31,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 13/03/2024| Concluido|  | 
 |01| 17/04/2024 | Concluido | [Ver Relatório](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/Documentos/relatorio%20sprint%201.pdf) | 
 |02| 08/05/2024 | Concluido | | 
-|03| 29/05/2024 | a fazer | | 
+|03| 29/05/2024 | Concluido | | 
 |04| 19/06/2024	| a fazer | | 
 |Feira de Soluções| 27/06/2024	 | a fazer | 
 
@@ -78,20 +78,20 @@ Para acessar o produto basta acessar [aqui](https://app.powerbi.com/groups/me/re
 - [x] Criação e modelagem do banco de dados em SQL;
 - [x] Criação de um modelo analítico para possíveis reduções nos custos com frete em Excel;
 - [x] Aplicaçao de fórmulas em SQL para definir média de gastos por KM filtrando por fábrica;
-- [x] Elaboração de relatório técnico da 2° sprint;
+- [x] Elaboração de relatório técnico da 2° sprint.
       
 ## Sprint 3. Competências desenvolvidas
 - [x] Integrar os dados do banco de dados SQL ao Power BI;
 - [x] Desenvolver os dashboards e relatórios necessários no Power BI;
 - [x] Testar e validar a precisão dos dados e a funcionalidade do visualizador no Power BI;
-- [x] Desenvolver um modelo de minimizaçao de custos no Python
-- [x] Desenvolver relatório técnico da 3° sprint
-- [x] Atualização do GitHub
+- [x] Desenvolver um modelo de minimizaçao de custos no Python;
+- [x] Desenvolver relatório técnico da 3° sprint;
+- [x] Atualização do GitHub.
 
 ## Sprint 4. Desenvolvimento de modelagem e solução de otimização em Python
-- [x] Efetuar ajustes e correções no modelo de otimização em Python;
-- [x] Efetuar ajustes e correções nos dashboards criados em Power BI;
-- [x] Elaborar relatório técnico da 4° sprint ;
+- [ ] Efetuar ajustes e correções no modelo de otimização em Python;
+- [ ] Efetuar ajustes e correções nos dashboards criados em Power BI;
+- [ ]Elaborar relatório técnico da 4° sprint.
 
 
 ## Hard Skill (saber tecnológico)
@@ -103,8 +103,9 @@ Para acessar o produto basta acessar [aqui](https://app.powerbi.com/groups/me/re
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Miro| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| 5W2H| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| SQL| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Phyton| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+
  
 </details>
 
