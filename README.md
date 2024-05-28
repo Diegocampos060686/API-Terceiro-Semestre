@@ -31,7 +31,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 13/03/2024| Concluido|  | 
 |01| 17/04/2024 | Concluido | [Ver Relatório](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/Documentos/relatorio%20sprint%201.pdf) | 
 |02| 08/05/2024 | Concluido |[Ver Relatório](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/relatorio%20sprint%202.pdf) | 
-|03| 29/05/2024 | Concluido | https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/relatorio%20sprint%202.pdf| 
+|03| 29/05/2024 | Concluido | | 
 |04| 19/06/2024	| a fazer | | 
 |Feira de Soluções| 27/06/2024	 | a fazer | 
 
