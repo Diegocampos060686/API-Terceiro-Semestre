@@ -62,7 +62,7 @@ Para acessar o produto basta acessar [aqui](https://app.powerbi.com/groups/me/re
 
 ### Código em Python
 
-![produto](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/Documentos/gif-python.gif) 
+![produto](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/Documentos/gif_sprint.gif) 
 
 
 # Backlog do Produto
