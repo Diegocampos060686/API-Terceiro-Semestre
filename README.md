@@ -62,6 +62,9 @@ Para acessar o produto basta acessar [aqui](https://app.powerbi.com/groups/me/re
 
 ### Código em Python
 
+Para acessar o código em python basta acessar [aqui](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/c%C3%B3pia_de_untitled0.py)
+
+
 ![produto](https://github.com/Diegocampos060686/API-Terceiro-Semestre/blob/main/Documentos/gif_sprint.gif) 
 
 
