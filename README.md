@@ -92,9 +92,9 @@ Para acessar o código em python basta acessar [aqui](https://github.com/Diegoca
 - [x] Atualização do GitHub.
 
 ## Sprint 4. Desenvolvimento de modelagem e solução de otimização em Python
-- [x ] Efetuar ajustes e correções no modelo de otimização em Python;
-- [x ] Efetuar ajustes e correções nos dashboards criados em Power BI;
-- [x ] Desenvolver relatório técnico da 4° sprint.
+- [x] Efetuar ajustes e correções no modelo de otimização em Python;
+- [x] Efetuar ajustes e correções nos dashboards criados em Power BI;
+- [x] Desenvolver relatório técnico da 4° sprint.
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
